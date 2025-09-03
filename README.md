@@ -3,3 +3,4 @@ This study evaluates the robustness of urban road networks by analyzing the impa
 
 # Citation
 If you find this repository (e.g., the code and the datasets) useful for your research, please cite the paper below:
+Kozhabek, A., Chai, W.K. Robustness assessment of urban road networks in densely populated cities. Appl Netw Sci 10, 29 (2025). https://doi.org/10.1007/s41109-025-00707-w
